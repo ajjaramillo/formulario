@@ -1,0 +1,40 @@
+
+body
+{
+    background:url(/css/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1
+{
+    color:#fff;
+    margin-top: 100px;
+    }
+input
+{
+    width: 300px;
+    height: 35px;
+}
+textarea
+{
+    width: 600px;
+    height: 70px;
+    margin-top: 5px;
+    }
+    input, textarea
+ {
+    background: transparent;
+    border:solid 2px #fff;
+    }
+input[type=submit] 
+{
+        color: #fff;
+    }
+::-webkit-input-placeholder
+    {
+        color: #fff;
+    }
+    #fondo {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 100px;
+    }
